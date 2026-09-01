@@ -69,7 +69,7 @@ if not paper_names:
     st.stop()
  
 tab_summary, tab_qa, tab_compare = st.tabs(
-    ["📝 Summary & Analysis", "💬 Ask Questions", "⚖️ Compare Papers"]
+    ["📝 Summary & Analysis",  "💬 Ask Questions",  "⚖️ Compare Papers"]
 )
  
 # --- Tab 1: Summary ---------------------------------------------------------

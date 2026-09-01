@@ -1,0 +1,11 @@
+streamlit>=1.38.0
+langchain>=0.3.7
+langchain-groq>=0.2.1
+langchain-huggingface>=0.1.2
+langchain-community>=0.3.5
+sentence-transformers>=3.2.1
+faiss-cpu>=1.9.0
+pypdf>=5.1.0
+tiktoken>=0.8.0
+python-dotenv>=1.0.1
+torchvision>=0.28.0
